@@ -4,4 +4,4 @@ change some is simple and good
 
 this my three day to practice git tools
 
-now i am change something
+now i am change something  and fix bug

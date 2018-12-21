@@ -2,6 +2,6 @@ test my second git dome ss
 
 change some is simple and good
 
-this my three day to practice git tool
+this my three day to practice git tools
 
 now i am change something
